@@ -14,6 +14,17 @@ This is the simplest interpretation:
 - extract a compact descriptor set
 - join that descriptor set back into formulation rows
 
+## Actual 3D Fragment Used
+
+![PEG fragment 3D](../figures/peg_fragment_3d.png)
+
+This is the actual optimized PEG fragment used in the descriptor workflow.
+
+- red bond: hotspot probe bond
+- hotspot atoms: `4-5`
+- bond type: `O-C`
+- raw coordinate file: [`../results/peg_fragment_optimized.xyz`](../results/peg_fragment_optimized.xyz)
+
 ## Detailed Computational View
 
 ![PEG descriptor example](../figures/peg_descriptor_example.png)
@@ -89,3 +100,4 @@ The purpose is to show the mechanism clearly:
 
 - [`../results/peg_descriptor_example.csv`](../results/peg_descriptor_example.csv)
 - [`../results/peg_bond_scan_metrics.csv`](../results/peg_bond_scan_metrics.csv)
+- [`../results/peg_fragment_optimized.xyz`](../results/peg_fragment_optimized.xyz)
