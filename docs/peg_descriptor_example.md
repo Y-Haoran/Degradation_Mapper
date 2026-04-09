@@ -2,6 +2,20 @@
 
 This page shows one complete reviewer-friendly example of how the mapper generates a polymer descriptor.
 
+## High-Level Schematic
+
+![PEG descriptor schematic](../figures/peg_descriptor_schematic.png)
+
+This is the simplest interpretation:
+
+- start from PEG chemistry
+- focus on a likely ether `O-C` hotspot bond
+- run a mapper-based bond probe
+- extract a compact descriptor set
+- join that descriptor set back into formulation rows
+
+## Detailed Computational View
+
 ![PEG descriptor example](../figures/peg_descriptor_example.png)
 
 ## Very Simple Workflow
