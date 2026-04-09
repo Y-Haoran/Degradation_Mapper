@@ -6,7 +6,9 @@ This page shows one complete reviewer-friendly example of how the mapper generat
 
 ![PEG descriptor schematic](../figures/peg_descriptor_schematic.png)
 
-This is the simplest interpretation:
+This is a text-free, publication-style abstract figure.
+
+It is meant to show the idea visually:
 
 - start from PEG chemistry
 - focus on a likely ether `O-C` hotspot bond
