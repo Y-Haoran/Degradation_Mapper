@@ -1,0 +1,6 @@
+polymer_key,polymer_name,family,barrier_proxy_eV,hotspot_bond_type,stretch_tolerance_A,peak_force_eV_per_A,status
+peg,PEG/PEO trimer-like fragment,polyether,4.330082416534424,O-C,1.727786387801583,3.1941783562759385,done
+gelatin,Gelatin-like peptide fragment,polypeptide,4.065406680107117,C-N,3.3429143935567485,3.386908823538401,done
+pectin,Pectin-like digalacturonic acid dimer proxy,polygalacturonate polysaccharide,4.593661606348178,O-C,3.4284391666790803,3.1147008824799274,done
+hpc,HPC-like hydroxypropyl cellobiose proxy,cellulose ether,4.449121206998825,O-C,1.735583894236698,2.6084515541169577,done
+xanthan,Xanthan-like branched glucan proxy,branched polysaccharide,4.427892312494805,O-C,3.4380574390715584,2.9207724069883416,done

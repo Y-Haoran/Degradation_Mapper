@@ -1,0 +1,5 @@
+model_label,train_rows,epochs,energy_mae_eV,force_mae_eV_per_A,energy_improvement_vs_zero_shot_pct,force_improvement_vs_zero_shot_pct,notes
+UMA-s-1p1 zero-shot,0,0,0.5990742808998595,0.0248436766634996,0.0,0.0,No OPoly26 reactive fine-tuning
+Reactive pilot v1,40308,3,0.3077321803679475,0.0202332287200291,48.6320494504107,18.55783266670886,Leakage-safe 40k reactive pilot
+Reactive hard-slice v2,18654,2,0.2948536260306063,0.0203569848614865,50.78179193609988,18.059693268367926,Targeted hard-slice top-up from v1 checkpoint
+Reactive scale 100k,100375,3,0.2888759754327717,0.0199907154493479,51.77960652911756,19.53398959374531,Best finished checkpoint so far

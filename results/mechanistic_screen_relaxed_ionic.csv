@@ -1,0 +1,2 @@
+candidate_id,api_name,polymer_key,cosolvent_system,pre_interaction_energy_eV,post_interaction_energy_eV,pre_screening_score_proxy,screening_score_proxy,score_delta_relaxation,post_api_polymer_min_distance_A,post_ion_polymer_min_distance_A,reactive_hotspot_risk
+screen_007,diclofenac_anion,pvp,water,-4237.685021767378,-4389.675058731795,4243.485021767378,4393.8750587317945,150.39003696441614,1.3586324196391353,3.8752986156786218,low

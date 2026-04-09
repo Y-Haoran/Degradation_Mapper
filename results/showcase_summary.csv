@@ -1,0 +1,3 @@
+title,family_tag,environment_tag,frames,num_atoms,charge,spin,hotspot_bond,hotspot_atoms,start_distance_A,end_distance_A,distance_growth_A,provenance_group
+Peptoid AFIR degradation pathway,peptoid,solvated,11,121,0,1,C-C,65-66,1.5382672541967468,4.844025321474073,3.305758067277327,omers/reactivity/none_Peptoid_Peptoids_CHAOS_MD_300atom_Solvent_1_MD_copolymer_71_84_3_plus_frame_eq3_500_0_1
+Fluoropolymer AFIR degradation pathway,fluoropolymer,bulk_or_vacuum,19,132,-1,2,C-C,19-29,1.4269894883985654,5.22328055060438,3.7962910622058144,omers/reactivity/none_Fluoro_Homopolymer_300atom_Relaxed_pdbs_Fluoro_polymer_MD_Homopolymers_Vacuum_600k_300atom_monomer519_Hterm_frame_eq4_500_0_1
