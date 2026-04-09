@@ -125,6 +125,7 @@ The top neutral candidate stayed `PVP + water` after relaxation, but the middle 
 ## Repository Layout
 
 - [`docs/project_summary.md`](docs/project_summary.md): fuller project narrative
+- [`docs/peg_descriptor_example.md`](docs/peg_descriptor_example.md): one complete PEG example from fragment to descriptor to ML feature
 - [`results/`](results): compact CSV tables for the main outcomes
 - [`figures/`](figures): selected figures for scaling, hard slices, and pathway demos
 

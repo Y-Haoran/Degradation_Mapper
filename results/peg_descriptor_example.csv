@@ -1,0 +1,2 @@
+polymer_key,polymer_name,fragment_id,repeat_units,end_capping_strategy,probe_atom_i,probe_atom_j,hotspot_bond_type,barrier_proxy_eV,stretch_tolerance_A,peak_force_eV_per_A
+peg,PEG/PEO trimer-like fragment,peg_trimer_dimethyl_capped,3,Dimethyl-capped oligomer ends,4,5,O-C,4.330082416534424,1.7277863878015827,3.1941783562759385
