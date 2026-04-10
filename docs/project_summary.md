@@ -4,7 +4,6 @@
 
 This project started from a narrow question:
 
-> Can a polymer-reactive MLIP trained on `OPoly26` learn local degradation physics better than a zero-shot foundation model?
 
 It then expanded into a second question:
 
